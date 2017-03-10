@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="DecoratePattern.Beverage" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Beverage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoratePattern.CondimentDecorator" Collapsed="true">
+    <Position X="12.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CondimentDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoratePattern.DarkRoast" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DarkRoast.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoratePattern.Decaf" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Decaf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoratePattern.Espresso" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Espresso.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoratePattern.HourseBlend" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HourseBlend.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoratePattern.Program" Collapsed="true">
+    <Position X="18.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoratePattern.Mocha" Collapsed="true">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Mocha.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoratePattern.Whip" Collapsed="true">
+    <Position X="16.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Whip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoratePattern.Soy" Collapsed="true">
+    <Position X="14" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Soy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoratePattern.Milk" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Milk.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="新細明體" Size="8.83" />
+</ClassDiagram>
